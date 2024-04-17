@@ -1,0 +1,22 @@
+.nav
+{
+    display: flex;
+    background-color: rgb(132, 244, 207);
+    color:rgb(54, 49, 49);
+    width:100%;
+    position: sticky;
+    justify-content: space-around;
+    align-items: center;
+ 
+}
+.navcontent
+{
+    width: 50%;
+    display: flex;
+    color: rgb(54, 49, 49);
+    justify-content:space-around;
+
+}
+h1{
+    cursor: pointer;
+}
